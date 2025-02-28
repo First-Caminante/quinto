@@ -1,0 +1,16 @@
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\obj\Debug\VISTA.vbproj.AssemblyReference.cache
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\obj\Debug\alab_c.inicio.resources
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\obj\Debug\alab_c.Resources.resources
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\obj\Debug\VISTA.vbproj.GenerateResource.cache
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\obj\Debug\VISTA.vbproj.CoreCompileInputs.cache
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\bin\Debug\alab_c.exe.config
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\bin\Debug\alab_c.exe
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\bin\Debug\alab_c.pdb
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\bin\Debug\alab_c.xml
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\bin\Debug\CONTROLADOR.dll
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\bin\Debug\CONTROLADOR.pdb
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\bin\Debug\CONTROLADOR.xml
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\obj\Debug\VISTA.vbproj.Up2Date
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\obj\Debug\alab_c.exe
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\obj\Debug\alab_c.xml
+C:\Users\juanc\Desktop\cero\alab_c\alab_c\obj\Debug\alab_c.pdb

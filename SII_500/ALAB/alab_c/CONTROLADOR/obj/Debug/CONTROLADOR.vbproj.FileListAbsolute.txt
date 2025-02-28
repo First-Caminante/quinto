@@ -1,0 +1,10 @@
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\bin\Debug\CONTROLADOR.dll
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\bin\Debug\CONTROLADOR.pdb
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\bin\Debug\CONTROLADOR.xml
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\obj\Debug\CONTROLADOR.vbproj.AssemblyReference.cache
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\obj\Debug\CONTROLADOR.Resources.resources
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\obj\Debug\CONTROLADOR.vbproj.GenerateResource.cache
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\obj\Debug\CONTROLADOR.vbproj.CoreCompileInputs.cache
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\obj\Debug\CONTROLADOR.dll
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\obj\Debug\CONTROLADOR.xml
+C:\Users\juanc\Desktop\cero\alab_c\CONTROLADOR\obj\Debug\CONTROLADOR.pdb

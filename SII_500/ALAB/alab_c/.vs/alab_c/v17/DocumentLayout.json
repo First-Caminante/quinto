@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F34EC667-A44D-406B-A0CB-2ADD81A2E59B}|alab_c\\VISTA.vbproj|c:\\users\\juanc\\desktop\\cero\\alab_c\\alab_c\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F34EC667-A44D-406B-A0CB-2ADD81A2E59B}|alab_c\\VISTA.vbproj|solutionrelative:alab_c\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34EC667-A44D-406B-A0CB-2ADD81A2E59B}|alab_c\\VISTA.vbproj|c:\\users\\juanc\\desktop\\cero\\alab_c\\alab_c\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F34EC667-A44D-406B-A0CB-2ADD81A2E59B}|alab_c\\VISTA.vbproj|solutionrelative:alab_c\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34EC667-A44D-406B-A0CB-2ADD81A2E59B}|alab_c\\VISTA.vbproj|c:\\users\\juanc\\desktop\\cero\\alab_c\\alab_c\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F34EC667-A44D-406B-A0CB-2ADD81A2E59B}|alab_c\\VISTA.vbproj|solutionrelative:alab_c\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8453E-D29D-4CF8-984C-277ED0B429A2}|CONTROLADOR\\CONTROLADOR.vbproj|c:\\users\\juanc\\desktop\\cero\\alab_c\\controlador\\connexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E0B8453E-D29D-4CF8-984C-277ED0B429A2}|CONTROLADOR\\CONTROLADOR.vbproj|solutionrelative:controlador\\connexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8453E-D29D-4CF8-984C-277ED0B429A2}|CONTROLADOR\\CONTROLADOR.vbproj|c:\\users\\juanc\\desktop\\cero\\alab_c\\controlador\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E0B8453E-D29D-4CF8-984C-277ED0B429A2}|CONTROLADOR\\CONTROLADOR.vbproj|solutionrelative:controlador\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F41557-E1E8-4647-84D7-921EA36AB851}|MODULO\\MODULO.vbproj|c:\\users\\juanc\\desktop\\cero\\alab_c\\modulo\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E0F41557-E1E8-4647-84D7-921EA36AB851}|MODULO\\MODULO.vbproj|solutionrelative:modulo\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\alab_c\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "alab_c\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\alab_c\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "alab_c\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-28T00:58:21.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inicio.vb",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\alab_c\\inicio.vb",
+              "RelativeDocumentMoniker": "alab_c\\inicio.vb",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\alab_c\\inicio.vb",
+              "RelativeToolTip": "alab_c\\inicio.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-28T00:49:18.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "connexion.vb",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\CONTROLADOR\\connexion.vb",
+              "RelativeDocumentMoniker": "CONTROLADOR\\connexion.vb",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\CONTROLADOR\\connexion.vb",
+              "RelativeToolTip": "CONTROLADOR\\connexion.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-28T00:42:38.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\CONTROLADOR\\Class1.vb",
+              "RelativeDocumentMoniker": "CONTROLADOR\\Class1.vb",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\CONTROLADOR\\Class1.vb",
+              "RelativeToolTip": "CONTROLADOR\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-28T00:39:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\MODULO\\Class1.vb",
+              "RelativeDocumentMoniker": "MODULO\\Class1.vb",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\MODULO\\Class1.vb",
+              "RelativeToolTip": "MODULO\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-28T00:39:21.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inicio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\alab_c\\inicio.vb",
+              "RelativeDocumentMoniker": "alab_c\\inicio.vb",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\cero\\alab_c\\alab_c\\inicio.vb [Dise\u00F1o]",
+              "RelativeToolTip": "alab_c\\inicio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-28T00:34:20.69Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
