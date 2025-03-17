@@ -1,6 +1,8 @@
 <?php
 
 
+require_once __DIR__ . '/BaseProducto.php';
+
 // Clase ProductoDigital
 class ProductoDigital extends BaseProducto
 {

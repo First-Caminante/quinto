@@ -1,0 +1,23 @@
+/Proyecto
+ ├── /app
+ │   ├── /clases
+ │   │   ├── BaseUsuario.php
+ │   │   ├── Cliente.php
+ │   │   ├── Administrador.php
+ │   │   ├── Producto.php
+ │   │   ├── ProductoFisico.php
+ │   │   ├── ProductoDigital.php
+ │   │   └── InterfazAutenticable.php
+ │   ├── /controladores
+ │   │   ├── ProcesarCliente.php
+ │   │   ├── ProcesarProductoFisico.php
+ │   │   └── ProcesarProductoDigital.php
+ │   └── funciones.php
+ ├── /public
+ │   ├── index.php
+ │   ├── cliente_formulario.php
+ │   ├── producto_fisico_formulario.php
+ │   └── producto_digital_formulario.php
+ └── /config
+     └── config.php
+

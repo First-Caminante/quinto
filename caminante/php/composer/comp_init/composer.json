@@ -1,0 +1,24 @@
+{
+  "name": "caminante/comp_init",
+  "description": "primera prueba de composer",
+  "type": "project",
+  "require": {
+    "nesbot/carbon": "3.x-dev"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Caminante\\CompInit\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Caminante",
+      "email": "i.am.caminante@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}

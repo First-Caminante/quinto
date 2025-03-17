@@ -1,6 +1,11 @@
 <?php
 
 
+require_once __DIR__ . '/BaseUsuario.php';
+require_once __DIR__ . '/InterfazAutenticable.php';
+
+
+
 // Clase Cliente
 class Cliente extends BaseUsuario implements InterfazAutenticable
 {

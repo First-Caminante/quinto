@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "files": [
+      "src/file1.php",
+      "src/file2.php"
+    ],
+    "classmap": [
+      "database/seed",
+      "database/factories"
+    ],
+    "psr-4": {
+      "Text\\": "src/"
+    }
+  }
+}
