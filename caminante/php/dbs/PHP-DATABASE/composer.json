@@ -1,0 +1,18 @@
+{
+  "name": "caminante/php-database",
+  "description": "primera vez con base de datos proyecto bien hecho y aprendido",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Caminante",
+      "email": "i.am.caminante@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Database\\": "database/"
+    }
+  },
+  "require": {}
+}
