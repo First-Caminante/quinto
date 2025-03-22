@@ -1,0 +1,20 @@
+{
+  "name": "caminante/composer-psr4",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Caminante",
+      "email": "i.am.caminante@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "app/logic/CreateMichi.php"
+    ],
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
