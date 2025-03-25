@@ -15,8 +15,3 @@ echo saludo("Caminante...");
 
 */
 
-
-
-
-
-?>
