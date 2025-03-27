@@ -35,8 +35,6 @@ class Connection
     $this->makeConnection();
   }
 
-
-
   public static function getInstance()
   {
     if (!self::$instance instanceof self) {
@@ -60,7 +58,7 @@ class Connection
     $server = "localhost";
     $db = "biblioteca_php";
     $user = "root";
-    $password = "caminante";
+    $password = "";
 
     try {
       $pdo = new \PDO("mysql:host=$server;dbname=$db", $user, $password, [

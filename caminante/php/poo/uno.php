@@ -5,6 +5,8 @@ class Persona
 {
   public $nombre;  // Propiedad
 
+  
+
   // Método constructor
   public function __construct($nombre)
   {

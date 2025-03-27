@@ -41,8 +41,8 @@ $funciones = new Functions();
                   <th><?= $value['isbn'] ?></th>
                   <th><?= $value['apePaterno'] . " " . $value['apeMaterno'] ?></th>
                   <th><?= $value['editorial'] ?></th>
-                  <th><a href="#"><button type="button" class="btn btn-outline-success btn-sm">editar</button></a></th>
-                  <th><a href="#"><button type="button" class="btn btn-outline-danger btn-sm">eliminar</button></a></th>
+                  <th><a href="libros.php?edit=editar&idLibro=<?= $value['idLibro'] ?>"><button type="button" class="btn btn-outline-success btn-sm">editar</button></a></th>
+                  <th><a href="process.php?del=delete&idLibro=<?= $value['idLibro'] ?>"><button type="button" class="btn btn-outline-danger btn-sm">eliminar</button></a></th>
                 </tr>
               <?php } ?>
             </tbody>
@@ -51,45 +51,92 @@ $funciones = new Functions();
       </div>
     </div>
     <div class="col-md-4">
-      <div class="card">
+      <?php if(!isset($_GET['edit'])){ ?>
+        <div class="card">
         <div class="card-header text-center">
           <h3>Adicionar libro</h3>
         </div>
-        <form action="function/funciones.php" method="POST">
+        <form action="process.php" method="POST">
           <div class="m-2">
             <label for="" class="form-label">TITULO
-              <input type="text" class="form-control" name="txtTitulo" autofocus>
+              <input type="text" class="form-control" name="titulo" autofocus>
             </label>
           </div>
           <div class="m-2">
             <label for="" class="form-label">ISB
-              <input type="text" class="form-control" name="txtISBN" autofocus>
+              <input type="text" class="form-control" name="isbn" autofocus>
             </label>
           </div>
           <div class="m-2">
             <label for="" class="form-label">EDITORIAL
-              <input type="text" class="form-control" name="txtEditorial" autofocus>
+              <input type="text" class="form-control" name="editorial" autofocus>
             </label>
           </div>
           <div class="m-2">
             <label for="" class="form-label">NUM PAG
-              <input type="number" class="form-control" name="numPaginas" autofocus>
+              <input type="number" class="form-control" name="paginas" autofocus>
             </label>
           </div>
       </div>
       <div class="m-2">
         <label for="" class="form-label">seleccionar autor
-          <select name="txtAutor" id="idAutor">
+          <select name="Autor" id="Autor">
             <?php foreach ($funciones->autor() as $key => $value) { ?>
               <option value="<?$value['idAutor']?>"><?= $value['apePaterno'] . " " . $value['apeMaterno'] . " " . $value['nombre'] ?></option>
             <?php } ?>
           </select>
         </label>
       </div>
+      <input type="hidden" name="action" value="addLibro">
       <div class="d-grid">
-        <input type="submit" class="btn btn-primary" value="registrar">
+        <input type="submit" class="btn btn-primary" value="registrarlibro">
       </div>
       </form>
+      <?php }else{ ?> 
+
+        <div class="card">
+        <div class="card-header text-center">
+          <h3>Editar libro</h3>
+        </div>
+        <form action="process.php" method="POST">
+          <div class="m-2">
+            <label for="" class="form-label">TITULO
+              <input type="text" class="form-control" name="titulo" autofocus>
+            </label>
+          </div>
+          <div class="m-2">
+            <label for="" class="form-label">ISB
+              <input type="text" class="form-control" name="isbn" autofocus>
+            </label>
+          </div>
+          <div class="m-2">
+            <label for="" class="form-label">EDITORIAL
+              <input type="text" class="form-control" name="editorial" autofocus>
+            </label>
+          </div>
+          <div class="m-2">
+            <label for="" class="form-label">NUM PAG
+              <input type="number" class="form-control" name="paginas" autofocus>
+            </label>
+          </div>
+      </div>
+      <div class="m-2">
+        <label for="" class="form-label">seleccionar autor
+          <select name="Autor" id="Autor">
+            <?php foreach ($funciones->autor() as $key => $value) { ?>
+              <option value=<?= $value['idAutor'] ?>><?= $value['apePaterno'] . " " . $value['apeMaterno'] . " " . $value['nombre'] ?></option>
+            <?php } ?>
+          </select>
+        </label>
+      </div>
+      <input type="hidden" name="action" value="editLibro">
+      <input type="hidden" value="<?= $_GET['idLibro'] ?>" name="idLibro">
+      <div class="d-grid">
+        <input type="submit" class="btn btn-primary" value="registrarlibro">
+      </div>
+      </form>
+
+      <?php }?>   
     </div>
   </div>
 </div>
